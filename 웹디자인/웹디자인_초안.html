@@ -4,10 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HALO | 운동의 흐름을 멈추지 않는 선케어 기어 (웹디자인 초안 2.0)</title>
-  <!-- Pretendard Font -->
+    <!-- Pretendard Font -->
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- JetBrains Mono Font for Numbers, Codes & Symbols (스타일가이드_초안 기준) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <style>
     /* ==========================================================================
        HALO Modern Editorial & Premium Suncare Design System 2.0
@@ -15,7 +17,7 @@
        ========================================================================== */
     :root {
       --font-main: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      --font-mono: 'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Monaco, Consolas, monospace;
 
       /* Colors */
       --halo-obsidian: #090D16;
@@ -85,6 +87,37 @@
     /* Layout Containers */
     .container { max-width: var(--max-width); margin: 0 auto; padding: 0 28px; }
     .section-spacing { padding: 100px 0; border-bottom: 1px solid var(--halo-border); }
+
+    
+    /* ==========================================================================
+       스타일가이드_초안 기준: 숫자, 기호, 코드, 스펙, 타이머 전용 모노스페이스 폰트 지정
+       ========================================================================== */
+    .hero-pillar-card .val,
+    .pill-badge,
+    .section-header .sub-title,
+    .stat-number,
+    .routine-step-num,
+    .gear-price,
+    .sku-id,
+    .tech-tag,
+    .spec-item .val,
+    .timer-mono,
+    .timer-display,
+    .count-badge,
+    .logo-tag,
+    .rating-num,
+    .matrix-val,
+    .compare-mono-val,
+    .hero-cinematic-placeholder .tag,
+    .bundle-price-box .price-num,
+    .filter-count {
+      font-family: var(--font-mono) !important;
+      letter-spacing: -0.02em;
+    }
+    
+    .num-mono {
+      font-family: var(--font-mono) !important;
+    }
 
     /* Badges (Pill Soft Tint) */
     .pill-badge {
@@ -1377,11 +1410,11 @@
               <div class="lbl">손 안 대는 노터치</div>
             </div>
             <div class="hero-pillar-card">
-              <div class="val">-4.2℃</div>
+              <div class="val num-mono">-4.2℃</div>
               <div class="lbl">즉각 크라이오 쿨링</div>
             </div>
             <div class="hero-pillar-card">
-              <div class="val">80 min</div>
+              <div class="val num-mono">80 min</div>
               <div class="lbl">공인 내수성 지속</div>
             </div>
           </div>
@@ -1570,19 +1603,19 @@
 
       <div class="metrics-bar">
         <div class="metric-item">
-          <div class="val">-4.2 ℃</div>
+          <div class="val num-mono">-4.2 ℃</div>
           <div class="lbl">쿨링 성능 목표값 (임상 예정)</div>
         </div>
         <div class="metric-item">
-          <div class="val">80 Min</div>
+          <div class="val num-mono">80 Min</div>
           <div class="lbl">지속 내수 성능 시험 목표</div>
         </div>
         <div class="metric-item">
-          <div class="val">320 Hr</div>
+          <div class="val num-mono">320 Hr</div>
           <div class="lbl">누적 필드 테스트 완료</div>
         </div>
         <div class="metric-item">
-          <div class="val">100 %</div>
+          <div class="val num-mono">100 %</div>
           <div class="lbl">비건 & 리프세이프 성분 설계</div>
         </div>
       </div>

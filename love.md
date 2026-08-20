@@ -1,0 +1,15 @@
+# Favorite Design Links
+
+- [Court Watches Web Design](https://www.behance.net/gallery/251524007/Court-Watches-Web-Design?tracking_source=curated_galleries_ui-ux)
+- [Global New Yorker Website Design by DDNYC](https://www.behance.net/gallery/251738479/Global-New-Yorker-Website-Design-by-DDNYC?tracking_source=curated_galleries_ui-ux)
+- [Luxury Fashion E-commerce Branding Website Design](https://www.behance.net/gallery/248801341/Luxury-Fashion-E-commerce-Branding-Website-Design?tracking_source=curated_galleries_ui-ux)
+- [BAUHAUS App Branding](https://www.behance.net/gallery/177076455/BAUHAUS-App-Branding?tracking_source=search_projects|uiux&l=11)
+- [Velore Atelier Jewerly E-Commerce Website](https://www.behance.net/gallery/254325235/Velore-Atelier-Jewerly-E-Commerce-Website?tracking_source=search_projects|uiux&l=14&bid=252939)
+- [OASHI SKINCARE WEBSITE UIUX DESIGN](https://www.behance.net/gallery/254371443/OASHI-SKINCARE-WEBSITE-UIUX-DESIGN?tracking_source=search_projects|uiux&l=35)
+- [Raol Clothing Ecommerce Web Design UIUX Design](https://www.behance.net/gallery/252824827/Raol-Clothing-Ecommerce-Web-Design-UIUX-Design?tracking_source=search_projects|uiux&l=41)
+- [B2B Logistics Website UIUX Design](https://www.behance.net/gallery/253110591/B2B-Logistics-Website-UIUX-Design?tracking_source=search_projects|uiux&l=486)
+- [Yale Corporate website redesign](https://www.behance.net/gallery/185118759/Yale-Corporate-website-redesign?tracking_source=search_projects|uiux&l=7)
+- [Loftly Furniture E-commerce Design](https://www.behance.net/gallery/246157347/Loftly-Furniture-E-commerce-Design?tracking_source=search_projects|uiux&l=77&bid=256357)
+- [Spider-Man Brand New Day UIUX Case Study](https://www.behance.net/gallery/253618929/Spider-Man-Brand-New-Day-UIUX-Case-Study?tracking_source=search_projects|uiux&l=211)
+- [white space](https://www.behance.net/gallery/240752081/white-space?tracking_source=search_projects|uiux&l=255)
+- [Hero Section Variants](https://www.behance.net/gallery/254278617/Hero-Section-Variants?tracking_source=search_projects|uiux&l=307)
